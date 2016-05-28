@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cardview_light_background">#1a1823</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">#b92222</color>
+    <color name="colorRestaurant">#b92222</color>
+    <color name="colorClub">#b92222</color>
+    <color name="colorHotel">#b92222</color>
+    <color name="colorCinema">#b92222</color>
+
+</resources>

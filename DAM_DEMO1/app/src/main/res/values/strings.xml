@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Locatiile mele</string>
+    <string name="action_settings">Setari</string>
+    <string name="title_activity_maps">Harta</string>
+    <string name="map_change">Schimba harta</string>
+    <string name="eat">Restaurante</string>
+    <string name="sleep">Hoteluri</string>
+    <string name="dance">Cluburi</string>
+    <string name="movies">Cinematografe</string>
+    <string name="showAll">Toate</string>
+    <string name="loading">Se incarca...</string>
+    <string name="required">Camp obligatoriu</string>
+    <string name="wait">Asteapta...</string>
+    <string name="add_location">Adauga locatie</string>
+    <string name="name">Denumire</string>
+    <string name="address">Adresa</string>
+    <string name="lat">Latitudine</string>
+    <string name="lng">Longitudine</string>
+    <string name="cancel">Anuleaza</string>
+    <string name="ok">Adauga</string>
+    <string name="NEW_LOCATION">Locatie noua</string>
+</resources>
